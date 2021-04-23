@@ -13,7 +13,7 @@ Aqui é a tela inicial, onde mostra todas as categorias de alimentos do aplicati
 <table>
   <tr>
     <td>Tela inicial com as categorias</td>
-     <td>Itens de uma categoria, onde mostra o tempo, a complexibilidade, o preço e a foto da refeição</td>
+     <td>Itens de uma categoria, onde mostra o tempo, a complexidade, o preço e a foto da refeição</td>
   </tr>
   <tr>
     <td valign="top"><img src="./images/meals_telainicial.jpeg" height="600"></td>

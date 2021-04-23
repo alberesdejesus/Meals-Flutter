@@ -13,7 +13,9 @@ Aqui é a tela inicial, onde mostra todas as categorias de alimentos do aplicati
 <table>
   <tr>
     <td>Tela inicial com as categorias</td>
-     <td>Itens de uma categoria, onde mostra o tempo, a complexidade, o preço e a foto da refeição</td>
+     <td>Itens de uma categoria, <br />
+       onde mostra o tempo, a complexidade, <br />
+       o preço e a foto da refeição</td>
   </tr>
   <tr>
     <td valign="top"><img src="./images/meals_telainicial.jpeg" height="600"></td>
@@ -26,7 +28,8 @@ Logo mais abaixo, ao lado de Categorias, há uma aba chamada Favoritos onde voc�
 <img src="./images/meals_favoritos.jpeg" height="600">
 
 ### Menu
-No canto superior esquerdo há um menu com as opções do aplicativo
+No canto superior esquerdo há um menu com as opções do aplicativo.
+
 Em configurações, você define as configurações gerais do aplicativo, nesse caso é o tipo de refeição...
 <table>
   <tr>

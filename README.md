@@ -43,3 +43,12 @@ Em configurações, você define as configurações gerais do aplicativo, nesse 
     <td valign="top"><img src="./images/meals_configuracoes.jpeg" height="600"></td>
   </tr>
  </table>
+
+## Guia
+```
+git clone https://github.com/alberesdejesus/Meals-Flutter.git
+cd Meals-Flutter
+flutter packages get
+flutter run
+```
+Coloque no seu emulador ou Smartphone e aproveite!! 

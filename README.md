@@ -27,11 +27,12 @@ Logo mais abaixo, ao lado de Categorias, há uma aba chamada Favoritos onde voc�
 
 ### Menu
 No canto superior esquerdo há um menu com as opções do aplicativo
+Em configurações, você define as configurações gerais do aplicativo, nesse caso é o tipo de refeição...
 <table>
   <tr>
     <td>Menu com as opções</td>
     <td>Tela da opção "Refeições"</td>
-    <td>Tela da opção "Configurações", aqui você define as configurações gerais do aplicativo, neste caso os tipos de refeições</td>
+    <td>Tela da opção "Configurações"</td>
   </tr>
   <tr>
     <td valign="top"><img src="./images/meals_menu.jpeg" height="600"></td>
